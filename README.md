@@ -135,7 +135,7 @@ Software Engineer with **2+ years of experience** specializing in scalable API d
   <a href="https://ashwanipandey0805.github.io/protfolio/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://www.linkedin.com/in/ashwani-kumar-94625a223/" target="_blank">
+  <a href="https://www.linkedin.com/in/ashwani-kumar-pandey-94625a223/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:ashwanipandey679@gmail.com">
